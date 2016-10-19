@@ -24,9 +24,6 @@
     "jsonwebtoken": "^5.4.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "postinstall": "scripts/postinstall.js"
-  },
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/ifavo/ah-jwtauth-plugin/issues"
