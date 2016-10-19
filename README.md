@@ -1,5 +1,5 @@
 The original version has `/scripts/post_install.js` file. 
-I removed that file due to it took some errors on the AWS Elastic Beanstalk Enviroment when do `npm install`.
+I removed that file because it took some errors on the AWS Elastic Beanstalk Enviroment's `npm install`.
 
 # ah-jwtauth2-plugin
 
