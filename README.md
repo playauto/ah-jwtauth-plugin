@@ -1,3 +1,6 @@
+The original version has `/scripts/post_install.js` file. 
+I removed that file due to it took some errors on the AWS Elastic Beanstalk Enviroment when do `npm install`.
+
 # ah-jwtauth2-plugin
 
 Uses auth0 node-jsonwebtoken to allow token authentication of actions, It is a really slimmed down version of panjiesw's plugin over at https://github.com/panjiesw/ah-auth-plugin as I didn't want to make the assumptions around users and email systems. 
